@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    font-family: "Open-sans" , sans-serif;
+}
+
+#page{
+    box-sizing: border-box;
+    width: 1120;
+    margin: 88px 80px;
+}
+
+section{
+    padding-bottom: 40px;
+}
+
+.description{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #E1624F;
+    margin-bottom: 8px;
+}
+
+img {
+    border-radius: 28px;
+}
