@@ -9,12 +9,22 @@
 
 #page{
     box-sizing: border-box;
-    width: 1120;
-    margin: 88px 80px;
+    width: 1120px;
+    margin: 88px auto;
+}
+
+header{
+    padding-bottom: 40px;
 }
 
 section{
+    justify-content: center;
+    align-items: center;
     padding-bottom: 40px;
+}
+
+#busan{
+    padding-top: 24px;
 }
 
 .description{
