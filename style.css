@@ -23,13 +23,13 @@ section{
     padding-bottom: 40px;
 }
 
+#busan{
+    padding-top: 24px;
+}
+
 #subtittle{
     border-top: solid  1px rgba(82, 82, 82, 0.2);
     padding-top: 64px;
-}
-
-#busan{
-    padding-top: 24px;
 }
 
 .description{
@@ -39,10 +39,57 @@ section{
     margin-bottom: 8px;
 }
 
+#options {
+    padding-bottom: 0px;
+}
+
 img{
     border-radius: 28px;
 }
 
 .hidden{
     visibility: hidden;
+}
+
+h2 + p{
+    padding-top: 8px;
+}
+
+h3{
+    padding-top: 20px;
+}
+
+h3 + p {
+    padding-top: 4px;
+}
+
+ul {
+    padding-left: 24px;
+}
+
+#historia {
+    color: #0C51A7;
+}
+
+#casais {
+    color: #591B98;
+}
+
+#familias {
+    color: #E5245E;
+}
+
+#orcamento {
+    color: #E95E10;
+}
+
+#division {
+    padding: 40px 0 0 0;
+    border-top: solid  1px rgba(82, 82, 82, 0.2);
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 80px;
 }
